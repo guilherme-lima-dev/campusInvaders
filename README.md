@@ -1,7 +1,12 @@
-# [Space Invaders](https://youtu.be/v74X5dtDLvg)
-- Coding Tutorial: https://youtu.be/v74X5dtDLvg
-- Demo: https://imkennyyip.github.io/space-invaders/
 
-In this tutorial, you will learn how to code space invaders in javascript, html, css. We will use html canvas to build the space invaders. Also, by the end of this video, you will learn how to load images on the canvas, move the ship, shoot bullets, detect collisions, generate enemies, and keep player score.
+# Campus Invaders
 
-![space-invaders-sample](https://user-images.githubusercontent.com/78777681/211818433-f6e9ff60-bd17-4941-9a69-723e6bcc377b.png)
+Nosso projeto é uma releitura de space invaders, porém representando a campus party, no lugar da nossa nave temos o Gandalf e ele atira em skins de preguiça, sono. Basicamente o que o grupo tentou passar é a ideia de que a campus faz a gente sair da nossa zona de conforto.
+
+O jogo foi desenvolvido em JS, para execução é bem simples, basta executar o index.html no navegador, ou então acessar o nosso link de publicação: 
+
+[Link do jogo]("https://campus-invaders.vercel.app/")
+
+Os comandos são: setas do teclado para movimentar o Gandalf e a barra de espaço para atirar.
+
+Muito obrigado pela oportunidade e Eles que lutem contra a zona de conforto, xô preguiça!
